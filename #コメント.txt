@@ -2,4 +2,5 @@
 
 C:¥>dir
 
+type test.txt
 type test.txt | more
